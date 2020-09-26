@@ -1,0 +1,8 @@
+ID  NAME                 PRICE CATEGORY
+001 Chocolate Panetone   025.00 Baking
+002 Fruit Panetone       023.00 Baking
+003 Garlic Bread         012.50 Breads
+004 Pesto Bread          013.50 Breads
+005 Dijon Bread          014.50 Breads
+006 Chocolate Cake       025.00 Cakes
+007 Cheesecake           020.50 Cakes

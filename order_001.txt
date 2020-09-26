@@ -1,0 +1,7 @@
+ID  CLIENT
+ORDER: 001CLIENT: Everton Volpi
+******************************************
+PRODUCT              PRICE  QTY SUB-TOTAL
+Chocolate Panetone    $25.0 005  $125.0
+Garlic Bread          $12.0 004   $48.0
+******************* ORDER TOTAL $173.0
